@@ -1,0 +1,147 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MQTT3?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1687660671077",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYGr_SNskNDQKT83aLMpn59kuagD4XlRY1Ug&s",
+    "description": "Stay connected on the go with this stylish smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "https://th.bing.com/th/id/OIP.xiLk6II7SS7bLC-CXwSykwHaE8?rs=1&pid=ImgDetMain",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 4,
+    "name": "Smart Phone",
+    "category": "Electronics",
+    "price": 9999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWb0E9Hflwqfhh2c_Saw2oZgw6kfFi-SvZQ&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 22,
+    "name": "Smart Phone",
+    "category": "Electronics",
+    "price": 9999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSH_lTcxkgaDL2Su1h7eIqdRKmXJvtHaihag&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQygh0nqZNronJC9A3hCfdPDjW5rPrtfXHUQQ&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 6,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "images/shoes.jpg",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7o94CQVxy3SWj7Mygbij-o8JZCvZmgChyw&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0ySg6vWO62cX1k1kNEsgHoQqvuEoq7v0cQ&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 9,
+    "name": "Table",
+    "category": "Furniture",
+    "price": 49.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDLDgu7pA-ydbPS1uFGogluKnDZ2gkTmkLQ&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 10,
+    "name": "Shirts",
+    "category": "Fashion",
+    "price": 99.9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4es-fTc6sguuz7LR6vTRHl456Sbc0zzYXg&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 11,
+    "name": "Tshirts",
+    "category": "Fashion",
+    "price": 50.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREqmf1gR_akE9IdHZ6gcTgUETJUqwM-j-wDw&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 19,
+    "name": "Tshirts",
+    "category": "Fashion",
+    "price": 50.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREqmf1gR_akE9IdHZ6gcTgUETJUqwM-j-wDw&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 12,
+    "name": "Mens Pants",
+    "category": "Fashion",
+    "price": 99.99,
+    "image": "https://images.meesho.com/images/products/142474229/lfoq1_512.webp",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 16,
+    "name": "Mens Pants",
+    "category": "Fashion",
+    "price": 99.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDKz8OwnT1KlsdEhM65JRlWQBzwnCK3ye0gw&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 13,
+    "name": "Maggi",
+    "category": "Grocery",
+    "price": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRufqAzH8DKPN-zAfVMRKbsqpdjlMT9mMPTcQ&s",
+    "description": "Comfortable and durable running shoes for everyday use."
+  },
+  {
+    "id": 14,
+    "name": "Fortune Oil",
+    "category": "Grocery",
+    "price": 30.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjOsdVsUiO5kaRfYfsRz-S3-NTKFfyTrV_g&s",
+    "description": "Fortune Premimum kachi ghani pure Mustard Oil."
+  },
+  {
+    "id": 15,
+    "name": "Almonds",
+    "category": "Grocery",
+    "price": 89.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3emwdSzGJmUsgop7fD-R_fwazmx5RvnOvw&s",
+    "description": "Raw Almonds comes in a pouch. Almonds are rich in nutrients especially Magnesium."
+  }
+]
