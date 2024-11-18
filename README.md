@@ -10,7 +10,8 @@ Currently, two official plugins are available:
 
 ![Product-details](/public/list.png)
 ![Product-list](/public/product%20details.png)
-
+![mobile-list](/public/mobilelist.png)
+![mobile-details](/public/mobiledetails.png)
 
 
 ## Installation
